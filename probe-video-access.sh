@@ -24,6 +24,12 @@ probe "Hailuo / MiniMax" "https://hailuoai.video/"
 probe "Vidu"             "https://www.vidu.com/"
 probe "Google AI Studio" "https://aistudio.google.com/"
 echo
+echo "── مسیرهای رایگان بدون کارت ──"
+probe "HF Spaces (hf.space)"  "https://huggingface.co/spaces"
+probe "یک فضای نمونه"          "https://multimodalart-wan2-1-fast.hf.space/"
+probe "Funy AI"               "https://funyai.com/"
+probe "FlatAI"                "https://flatai.org/"
+echo
 echo "── مسیرهای متن‌باز و محلی ──"
 probe "Hugging Face"     "https://huggingface.co/"
 probe "GitHub raw"       "https://raw.githubusercontent.com/"
